@@ -536,7 +536,7 @@ const materialTallo =
 
         size: 0.047,
 
-        color:  0x2b063f,
+        color:   0x4a176b,
 
         map: texturaRosa,
 
